@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" style="border-radius: 50%" />
-</p>
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">Welcome to my colorful coding journey! 🎨✨</p>
 <h3 align="center">🛠️ Technologies and Tools I use:</h3>
