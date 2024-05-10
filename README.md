@@ -1,31 +1,111 @@
-# Hi there! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-I'm **Your Name**, a passionate Fullstack Developer exploring the Web3 universe.
+        .profile-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 400px;
+            text-align: center;
+            animation: fadeInUp 1s ease;
+        }
 
-## 🛠️ Technologies and Tools I use:
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+        h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
 
-## 👨🏻‍💻 About Me:
+        p {
+            color: #666;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
 
-- 💻 Fullstack Developer with a passion for Web3 technologies.
-- ⏳ Exploring the magic of Google Cloud & Microsoft Azure.
-- 🚀 Always open to collaborating on exciting Dev experiments.
-- 👨‍💻 Former Project Lead at Innoways Ltd.
-- 🎯 Life motto: "Explore 🔥 and Explode 💣 with knowledge."
-- 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition.
-- ⚡ Fun fact: I love attending meetups for learning & networking.
+        .technologies {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
 
-Let's connect and build something awesome together! 🌟
+        .technology-badge {
+            margin: 5px;
+            padding: 8px 12px;
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        .about-me {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .fun-fact {
+            font-style: italic;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-card">
+        <h1>Hi there! 👋</h1>
+        <p>Welcome to my colorful coding journey! 🎨✨</p>
+
+        <div class="technologies">
+            <span class="technology-badge">HTML5</span>
+            <span class="technology-badge">CSS3</span>
+            <span class="technology-badge">SASS</span>
+            <span class="technology-badge">JavaScript</span>
+            <span class="technology-badge">React</span>
+            <span class="technology-badge">Node.js</span>
+            <span class="technology-badge">Express.js</span>
+            <span class="technology-badge">MongoDB</span>
+            <span class="technology-badge">Postman</span>
+            <span class="technology-badge">Git</span>
+            <span class="technology-badge">Azure</span>
+            <span class="technology-badge">Google Cloud</span>
+            <span class="technology-badge">Firebase</span>
+        </div>
+
+        <div class="about-me">
+            <p>💻 Fullstack Developer with a passion for Web3 technologies.</p>
+            <p>⏳ Exploring the magic of Google Cloud & Microsoft Azure.</p>
+            <p>🚀 Always open to collaborating on exciting Dev experiments.</p>
+            <p>👨‍💻 Former Project Lead at Innoways Ltd.</p>
+            <p>🎯 Life motto: "Explore 🔥 and Explode 💣 with knowledge."</p>
+            <p class="fun-fact">⚡ Fun fact: I love attending meetups for learning & networking.</p>
+        </div>
+
+        <p>Let's connect and build something awesome together! 🌟</p>
+    </div>
+</body>
+</html>
