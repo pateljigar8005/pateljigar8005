@@ -1,111 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .profile-card {
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            width: 400px;
-            text-align: center;
-            animation: fadeInUp 1s ease;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        h1 {
-            color: #333;
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-
-        p {
-            color: #666;
-            font-size: 16px;
-            margin-bottom: 20px;
-        }
-
-        .technologies {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-bottom: 20px;
-        }
-
-        .technology-badge {
-            margin: 5px;
-            padding: 8px 12px;
-            background-color: #007bff;
-            color: #fff;
-            border-radius: 20px;
-            font-size: 14px;
-        }
-
-        .about-me {
-            text-align: left;
-            margin-bottom: 20px;
-        }
-
-        .fun-fact {
-            font-style: italic;
-            color: #777;
-        }
-    </style>
-</head>
-<body>
-    <div class="profile-card">
-        <h1>Hi there! 👋</h1>
-        <p>Welcome to my colorful coding journey! 🎨✨</p>
-
-        <div class="technologies">
-            <span class="technology-badge">HTML5</span>
-            <span class="technology-badge">CSS3</span>
-            <span class="technology-badge">SASS</span>
-            <span class="technology-badge">JavaScript</span>
-            <span class="technology-badge">React</span>
-            <span class="technology-badge">Node.js</span>
-            <span class="technology-badge">Express.js</span>
-            <span class="technology-badge">MongoDB</span>
-            <span class="technology-badge">Postman</span>
-            <span class="technology-badge">Git</span>
-            <span class="technology-badge">Azure</span>
-            <span class="technology-badge">Google Cloud</span>
-            <span class="technology-badge">Firebase</span>
-        </div>
-
-        <div class="about-me">
-            <p>💻 Fullstack Developer with a passion for Web3 technologies.</p>
-            <p>⏳ Exploring the magic of Google Cloud & Microsoft Azure.</p>
-            <p>🚀 Always open to collaborating on exciting Dev experiments.</p>
-            <p>👨‍💻 Former Project Lead at Innoways Ltd.</p>
-            <p>🎯 Life motto: "Explore 🔥 and Explode 💣 with knowledge."</p>
-            <p class="fun-fact">⚡ Fun fact: I love attending meetups for learning & networking.</p>
-        </div>
-
-        <p>Let's connect and build something awesome together! 🌟</p>
-    </div>
-</body>
-</html>
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">Welcome to my colorful coding journey! 🎨✨</p>
+<h3 align="center">🛠️ Technologies and Tools I use:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+<h3 align="center">👨🏻‍💻 About Me:</h3>
+<p align="center">
+  💻 Fullstack Developer diving into the Web3 universe.<br/>
+  ⏳ Learning the magic of Google Cloud & Microsoft Azure.<br/>
+  🚀 Always ready to collaborate on captivating Dev experiments.<br/>
+  👨‍💻 Former Project Lead at Innoways Ltd.<br/>
+  🎯 Life Hack: "<em>Explore 🔥 and Explode 💣 with knowledge.</em>"<br/>
+  🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition.<br/>
+  ⚡ Fun fact: I love attending meetups for learning & conferences for networking.
+</p>
+<p align="center">
+  Let's connect and build something awesome together! 🌟
+</p>
