@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" />
+  <img src="https://raw.githubusercontent.com/pateljigar8005/pateljigar8005/main/pateljigar.jpeg" alt="Jigar Patel" width="200" />
 </p>
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">I'm <strong>Your Name</strong>, a passionate Fullstack Developer exploring the Web3 universe.</p>
