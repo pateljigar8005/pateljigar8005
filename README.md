@@ -33,6 +33,6 @@
   Let's connect and build something awesome together! 🌟
 </p>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljigar8005&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljigar8005&theme=transparent" style="margin:0 auto;" />
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
