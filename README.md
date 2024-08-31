@@ -32,7 +32,7 @@
 <p align="center">
   Let's connect and build something awesome together! 🌟
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljigar8005&theme=transparent" width="708px">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljigar8005&theme=transparent" />
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
