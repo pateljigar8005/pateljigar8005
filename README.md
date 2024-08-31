@@ -34,7 +34,5 @@
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljigar8005&theme=transparent" width="708px">
-<img src="https://github-readme-stats.vercel.app/api?username=pateljigar8005&show_icons=true&theme=transparent" width="400px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljigar8005&theme=transparent&layout=compact" width="303px"></img>
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
